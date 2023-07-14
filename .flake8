@@ -1,0 +1,11 @@
+[flake8]
+max-complexity = 10
+count = false
+indent-size = 4
+statistics = true
+max-line-length = 140
+extend-ignore = A003 G200
+inline-quotes = single
+multiline-quotes = double
+enable-extensions = G
+exclude = ./venv/

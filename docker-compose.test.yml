@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  billing_microservice_example:
+    environment:
+      - DATABASE_HOST=db-test
+    depends_on:
+      - db-test

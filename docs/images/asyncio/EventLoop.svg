@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="172 309 579 235" width="579" height="235">
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#76bdff" stop-opacity=".16675836"/>
+      <stop offset="1" stop-color="#5070ff" stop-opacity=".203703"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(461.5 330.2) rotate(90) scale(192.4)"/>
+    <linearGradient x1="0" x2="1" id="Gradient_2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#76bdff"/>
+      <stop offset="1" stop-color="#5070ff"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient_2" gradientTransform="translate(473.9 413.8) rotate(90) scale(87)"/>
+    <font-face font-family="Helvetica Neue" font-size="14.79" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.4390805 0 L 0 -1.2896552 L 0 1.2896552 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Courier New" font-size="4.36" panose-1="2 7 3 9 2 2 5 2 4 4" units-per-em="1000" underline-position="-232.91016" underline-thickness="41.015625" slope="0" x-height="422.85156" cap-height="571.28906" ascent="832.5195" descent="-300.29297" font-weight="400">
+      <font-face-src>
+        <font-face-name name="CourierNewPSMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="2.725" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Courier New" font-size="8.993" panose-1="2 7 3 9 2 2 5 2 4 4" units-per-em="1000" underline-position="-232.91016" underline-thickness="41.015625" slope="0" x-height="422.85156" cap-height="571.28906" ascent="832.5195" descent="-300.29297" font-weight="400">
+      <font-face-src>
+        <font-face-name name="CourierNewPSMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#b1001c">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.2\n2020-09-01 10:51:45 +0000</metadata>
+  <g id="Canvas_1" stroke-dasharray="none" stroke="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="172" y="309" width="579" height="235"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_66">
+        <rect x="193" y="330.2" width="537" height="192.4" fill="url(#Obj_Gradient)"/>
+        <rect x="193" y="330.2" width="537" height="192.4" stroke="#3b7cd0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_6">
+        <g id="Graphic_3">
+          <circle cx="473.9" cy="457.3" r="43.5000695087324" fill="url(#Obj_Gradient_2)"/>
+          <circle cx="473.9" cy="457.3" r="43.5000695087324" stroke="#3b7cd0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".435"/>
+          <text transform="translate(441.275 439.8859)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="14.79" font-weight="400" fill="white" x="13.996995" y="14">Event </tspan>
+            <tspan font-family="Helvetica Neue" font-size="14.79" font-weight="400" fill="white" x="15.638685" y="31.41412">Loop</tspan>
+          </text>
+        </g>
+        <g id="Line_4">
+          <path d="M 436.3706 449.7941 C 436.3706 449.7941 453.02785 419.04854 474.58236 420.11177 C 486.13423 420.6816 496.1815 430.2442 503.0188 438.99683" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.48"/>
+        </g>
+        <g id="Line_5">
+          <path d="M 512.45295 459.34706 C 512.45295 459.34706 495.7957 492.3203 474.2412 492.12696 C 462.5967 492.0225 452.48106 482.26487 445.6409 473.31447" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.48"/>
+        </g>
+      </g>
+      <g id="Group_7">
+        <g id="Graphic_18">
+          <rect x="202.8" y="378.13054" width="176" height="119.56364" fill="#ffc0ff"/>
+          <rect x="202.8" y="378.13054" width="176" height="119.56364" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2909091"/>
+        </g>
+        <g id="Graphic_17">
+          <rect x="205.72086" y="383.13054" width="164.86618" height="45.6" fill="#ffffc0"/>
+          <path d="M 205.72086 383.13054 L 370.58704 383.13054 L 370.58704 428.73054 L 205.72086 428.73054 Z M 222.20748 383.13054 L 222.20748 428.73054 M 354.10042 428.73054 L 354.10042 383.13054" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(223.57 383.43054)" fill="black">
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="4">00 async def a_coroutine(x):</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="9">01     await asyncio.sleep(0)</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="14">02     return x-2</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="24">03 async def main():</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="29">04     some_value = 12</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="34">05     some_other_value = await a_func(some_value)</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="39">06     await asyncio.sleep(0)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_16">
+          <rect x="246.26472" y="482.50037" width="117.45012" height="4.087591" fill="#c0c0ff"/>
+          <rect x="246.26472" y="482.50037" width="117.45012" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(247.62725 482.506)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="49.010405" y="3">Start of Stack</tspan>
+          </text>
+        </g>
+        <g id="Graphic_15">
+          <circle cx="221.19416" cy="470.10134" r="13.6253259081523" fill="#c0ffff"/>
+          <circle cx="221.19416" cy="470.10134" r="13.6253259081523" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(211.65645 461.02504)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x=".48117555" y="3">INSTRUCTION</tspan>
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="3.3560506" y="7.0763">POINTER:</tspan>
+            <tspan font-family="Courier New" font-size="8.993" font-weight="400" fill="black" x="4.141035" y="15.1526">01</tspan>
+          </text>
+        </g>
+        <g id="Line_14">
+          <path d="M 219.12732 456.6328 L 208.79514 389.3033 L 213.2568 389.42387" marker-end="url(#FilledArrow_Marker_2)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width=".54501217"/>
+        </g>
+        <g id="Graphic_12">
+          <rect x="246.26472" y="478.4128" width="117.45012" height="4.087591" fill="#ffc0c0"/>
+          <rect x="246.26472" y="478.4128" width="117.45012" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(247.62725 478.4184)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="39.294417" y="3">Stack Frame for Call to main()</tspan>
+          </text>
+        </g>
+        <g id="Graphic_11">
+          <rect x="293.4083" y="474.18893" width="70.30657" height="4.087591" fill="#c0ffc0"/>
+          <rect x="293.4083" y="474.18893" width="70.30657" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(294.77082 474.1946)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="23.457552" y="3">some_value = 12</tspan>
+          </text>
+        </g>
+        <g id="Graphic_10">
+          <rect x="246.26473" y="470.10134" width="117.45012" height="4.087591" fill="#ffc0c0"/>
+          <rect x="246.26473" y="470.10134" width="117.45012" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(247.62727 470.107)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="35.13198" y="3">Stack Frame for Call to a_coroutine()</tspan>
+          </text>
+        </g>
+        <g id="Graphic_9">
+          <rect x="293.4083" y="461.92616" width="70.30657" height="4.087591" fill="#c0ffc0"/>
+          <rect x="293.4083" y="461.92616" width="70.30657" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(294.77082 461.9318)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="29.994827" y="3">x = 12</tspan>
+          </text>
+        </g>
+        <g id="Graphic_8">
+          <rect x="293.4083" y="466.01375" width="70.30657" height="4.087591" fill="#ffffc0"/>
+          <rect x="293.4083" y="466.01375" width="70.30657" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(294.77082 466.0194)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="23.08014" y="3">Return Point = 05</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_62">
+        <g id="Graphic_54">
+          <rect x="533.8" y="394.73054" width="176" height="119.56364" fill="#ffc0ff"/>
+          <rect x="533.8" y="394.73054" width="176" height="119.56364" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2909091"/>
+        </g>
+        <g id="Graphic_52">
+          <rect x="577.2647" y="499.1004" width="117.45012" height="4.087591" fill="#c0c0ff"/>
+          <rect x="577.2647" y="499.1004" width="117.45012" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(578.62726 499.106)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="49.010405" y="3">Start of Stack</tspan>
+          </text>
+        </g>
+        <g id="Graphic_51">
+          <circle cx="552.1942" cy="486.70135" r="13.6253259081523" fill="#c0ffff"/>
+          <circle cx="552.1942" cy="486.70135" r="13.6253259081523" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(542.65646 477.62505)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x=".48117555" y="3">INSTRUCTION</tspan>
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="3.3560506" y="7.0763">POINTER:</tspan>
+            <tspan font-family="Courier New" font-size="8.993" font-weight="400" fill="black" x="4.141035" y="15.1526">04</tspan>
+          </text>
+        </g>
+        <g id="Graphic_49">
+          <rect x="624.4083" y="490.9252" width="70.30657" height="4.087591" fill="#ffffc0"/>
+          <rect x="624.4083" y="490.9252" width="70.30657" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(625.7708 490.93084)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="23.08014" y="3">Return Point = 05</tspan>
+          </text>
+        </g>
+        <g id="Graphic_48">
+          <rect x="577.2647" y="495.0128" width="117.45012" height="4.087591" fill="#ffc0c0"/>
+          <rect x="577.2647" y="495.0128" width="117.45012" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(578.62726 495.0184)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="39.294417" y="3">Stack Frame for Call to main()</tspan>
+          </text>
+        </g>
+        <g id="Graphic_47">
+          <rect x="624.4083" y="486.8376" width="70.30657" height="4.087591" fill="#c0ffc0"/>
+          <rect x="624.4083" y="486.8376" width="70.30657" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(625.7708 486.84325)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="23.457552" y="3">some_value = 12</tspan>
+          </text>
+        </g>
+        <g id="Graphic_45">
+          <rect x="624.4083" y="482.75" width="70.30657" height="4.087591" fill="#c0ffc0"/>
+          <rect x="624.4083" y="482.75" width="70.30657" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(625.7708 482.75565)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="19.622115" y="3">some_other_value = 10</tspan>
+          </text>
+        </g>
+        <g id="Graphic_56">
+          <rect x="539.6" y="402.93055" width="164.86618" height="45.6" fill="#ffffc0"/>
+          <path d="M 539.6 402.93055 L 704.4662 402.93055 L 704.4662 448.53055 L 539.6 448.53055 Z M 556.0866 402.93055 L 556.0866 448.53055 M 687.9796 448.53055 L 687.9796 402.93055" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(557.44916 403.23055)" fill="black">
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="4">00 async def a_coroutine(x):</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="9">01     await asyncio.sleep(0)</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="14">02     return x-2</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="24">03 async def main():</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="29">04     some_value = 12</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="34">05     some_other_value = await a_func(some_value)</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="39">06     await asyncio.sleep(0)</tspan>
+          </text>
+        </g>
+        <g id="Line_50">
+          <path d="M 550.0369 473.2469 L 543.3 431.23054 L 545.6769 431.23054" marker-end="url(#FilledArrow_Marker_2)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width=".54501217"/>
+        </g>
+      </g>
+      <g id="Group_61">
+        <g id="Graphic_42">
+          <rect x="238" y="394.73054" width="176" height="119.56364" fill="#ffc0ff"/>
+          <rect x="238" y="394.73054" width="176" height="119.56364" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2909091"/>
+        </g>
+        <g id="Graphic_40">
+          <rect x="281.46473" y="499.1004" width="117.45012" height="4.087591" fill="#c0c0ff"/>
+          <rect x="281.46473" y="499.1004" width="117.45012" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(282.82726 499.106)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="49.010405" y="3">Start of Stack</tspan>
+          </text>
+        </g>
+        <g id="Graphic_39">
+          <circle cx="256.39417" cy="486.70135" r="13.6253259081524" fill="#c0ffff"/>
+          <circle cx="256.39417" cy="486.70135" r="13.6253259081524" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(246.85645 477.62505)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x=".48117555" y="3">INSTRUCTION</tspan>
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="3.3560506" y="7.0763">POINTER:</tspan>
+            <tspan font-family="Courier New" font-size="8.993" font-weight="400" fill="black" x="4.141035" y="15.1526">06</tspan>
+          </text>
+        </g>
+        <g id="Graphic_36">
+          <rect x="281.46473" y="495.0128" width="117.45012" height="4.087591" fill="#ffc0c0"/>
+          <rect x="281.46473" y="495.0128" width="117.45012" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(282.82726 495.0184)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="39.294417" y="3">Stack Frame for Call to main()</tspan>
+          </text>
+        </g>
+        <g id="Graphic_55">
+          <rect x="243.8" y="401.93055" width="164.86618" height="45.6" fill="#ffffc0"/>
+          <path d="M 243.8 401.93055 L 408.6662 401.93055 L 408.6662 447.53055 L 243.8 447.53055 Z M 260.28662 401.93055 L 260.28662 447.53055 M 392.17957 447.53055 L 392.17957 401.93055" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(261.64916 402.23055)" fill="black">
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="4">00 async def a_coroutine(x):</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="9">01     await asyncio.sleep(0)</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="14">02     return x-2</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="24">03 async def main():</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="29">04     some_value = 12</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="34">05     some_other_value = await a_func(some_value)</tspan>
+            <tspan font-family="Courier New" font-size="4.36" font-weight="400" fill="black" x="0" y="39">06     await asyncio.sleep(0)</tspan>
+          </text>
+        </g>
+        <g id="Line_38">
+          <path d="M 254.67964 473.1837 L 250.5 440.23054 L 252.38934 440.1046" marker-end="url(#FilledArrow_Marker_2)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width=".54501217"/>
+        </g>
+        <g id="Graphic_60">
+          <rect x="328.60828" y="490.9252" width="70.30657" height="4.087591" fill="#c0ffc0"/>
+          <rect x="328.60828" y="490.9252" width="70.30657" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(329.9708 490.93084)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="23.457552" y="3">some_value = 12</tspan>
+          </text>
+        </g>
+        <g id="Graphic_59">
+          <rect x="328.60828" y="486.8376" width="70.30657" height="4.087591" fill="#c0ffc0"/>
+          <rect x="328.60828" y="486.8376" width="70.30657" height="4.087591" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width=".27250608"/>
+          <text transform="translate(329.9708 486.84325)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="2.725" font-weight="400" fill="black" x="19.622115" y="3">some_other_value = 10</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_64">
+        <text transform="translate(584.4 371.28255)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3126388e-19" y="15">Active Task</tspan>
+        </text>
+      </g>
+      <g id="Graphic_65">
+        <text transform="translate(246.6 349.4)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Paused Tasks</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
